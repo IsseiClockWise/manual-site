@@ -1,0 +1,16 @@
+[
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/takedaissei/Downloads/ChipsNeo/manual-site/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_70268b78"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/takedaissei/Downloads/ChipsNeo/manual-site/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_123f172a"
+  }
+]

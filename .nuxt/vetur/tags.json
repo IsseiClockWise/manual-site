@@ -1,0 +1,11 @@
+{
+  "MyBanner": {
+    "description": "Auto imported from components/MyBanner.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  }
+}
