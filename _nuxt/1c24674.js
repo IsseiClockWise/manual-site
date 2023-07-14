@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{265:function(t,n,c){"use strict";c.r(n);var e={},r=c(42),component=Object(r.a)(e,(function(){this._self._c;return this._m(0)}),[function(){var t=this._self._c;return t("div",[t("img",{staticClass:"banner",attrs:{src:"http://placehold.jp/700x100.png",alt:""}})])}],!1,null,"59a52ec2",null);n.default=component.exports}}]);
